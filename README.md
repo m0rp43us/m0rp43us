@@ -4,8 +4,6 @@
 |
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rp43us&layout=compact&theme=chartreuse-dark)](https://github.com/m0rp43us)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0rp43us&repo=m0rp43us)](https://github.com/m0rp43us/m0rp43us)
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
