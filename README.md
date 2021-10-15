@@ -1,7 +1,7 @@
 ###stats
 
 [![m0rp4us GitHub stats](https://github-readme-stats.vercel.app/api?username=m0rp43us&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/m0rp43us)
-
+|
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rp43us&layout=compact&theme=chartreuse-dark)](https://github.com/m0rp43us)
 
 
