@@ -1,9 +1,9 @@
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=m0rp43us&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/m0rp43us/m0rp43us?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+
 ### Stats
 
 [![m0rp4us GitHub stats](https://github-readme-stats.vercel.app/api?username=m0rp43us&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/m0rp43us)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rp43us&layout=compact&theme=chartreuse-dark)](https://github.com/m0rp43us)
-
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=m0rp43us&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/m0rp43us/m0rp43us?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 ### Languages
 
