@@ -22,6 +22,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express.js)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Influxdb](https://img.shields.io/badge/-Influxdb-000?&logo=Influxdb)
