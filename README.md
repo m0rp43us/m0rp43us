@@ -27,7 +27,7 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Influxdb](https://img.shields.io/badge/-Influxdb-000?&logo=Influxdb)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
 
 
 
