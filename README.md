@@ -1,5 +1,11 @@
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=m0rp43us&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/m0rp43us/m0rp43us?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+<table>
+  <tr>
+    <td valign="top"><img alt="Visitors" src="https://komarev.com/ghpvc/?username=m0rp43us&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></td>
+    <td valign="top"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/m0rp43us/m0rp43us?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+</td>
+  </tr>
+</table>
+
 
 ### Stats
 
