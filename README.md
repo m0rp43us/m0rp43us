@@ -1,7 +1,3 @@
-<p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
-</p>
-
 <a href="https://github-readme-stats.vercel.app/api?username=m0rp43us&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=m0rp43us&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
